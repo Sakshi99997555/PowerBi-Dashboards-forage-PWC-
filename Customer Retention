@@ -1,1 +1,37 @@
+# Customer Retension 
+
+Here is the background information on your task
+A few weeks after presenting your dashboard to the management,
+the Retention Manager from the telecom reaches out to you directly. He was impressed by your 
+work and asked if you can put together a dashboard about customer retention.
+
+In addition, to better understand the data, the telecom Retentio
+n Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
+
+Customers in the telecom industry are hard-earned: we don’t want to lose them
+The retention department is here to get customers back in case of termination 
+Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
+We  have done customer analysis with Excel: it has always ended in a dead-end
+We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
+The Retentions Manager has provided some information in the resources.
+
+Here is your task
+    Your colleague, the engagement partner, asks you to do the following tasks:
+    Define proper KPIs
+    Create a dashboard for the retention manager reflecting the KPIs
+    Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
+
+
+PhoneNow inputs
+    Hi Digital Accelerator,
+    I’m Janet, Retention Manager here at PhoneNow. Before you start working on our dashboard, let me provide you with some inputs
+    • Customers who left within the last month
+    • Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech
+    support, and streaming TV and movies
+    • Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges
+    and number of tickets opened in the categories administrative and technical
+    • Demographic info about customers – gender, age range, and if they have partners and dependents
+    Looking forward to hearing from you.
+    Best regards,
+    Janet
 
